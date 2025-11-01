@@ -16,7 +16,6 @@ I'm currently learning software development and building my technical skills. Th
 
 **Skills I'm Developing:**
 
-<img align="left" alt="Visual Studio Code"> width="26px" src=""
 
 <br/>
 
