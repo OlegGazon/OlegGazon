@@ -20,6 +20,6 @@ I'm currently learning software development and building my technical skills. Th
 <br/>
 
 **Get in Touch:**
-- Email: [propagandalososej@gmail.com]
+<img src="https://img.icons8.com/fluency/20/000000/gmail.png" width="20" height="20"> [propagandalososej@gmail.com](mailto:propagandalososej@gmail.com)
 
 ---
