@@ -4,15 +4,16 @@
 
 # [Sinon]
 
-## Developer in Training!
+## Обо мне
 
+Дизайнер и начинающий веб-разработчик. Создаю визуальные концепции и превращаю их в функциональные веб-интерфейсы. Увлекаюсь чистой эстетикой, интуитивной навигацией и вниманием к деталям.
 
-I'm currently learning software development and building my technical skills. This space documents my journey from beginner to capable developer.
+В настоящее время углубляюсь в веб-дизайн и оттачиваю технические навыки для создания гармоничных цифровых продуктов.
 
-**Current Focus:**
-- Mastering Git and GitHub
-- Web development fundamentals
-- Building practical projects
+**Текущее направление деятельности:**
+- Освоение Git и GitHub
+- Основы веб-разработки
+- Создание практических проектов
 
 **Skills I'm Developing:**
 
