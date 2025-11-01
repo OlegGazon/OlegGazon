@@ -4,7 +4,7 @@
 
 # [Sinon]
 
-## Developer in Training![Uploading Header.png…]()
+## Developer in Training!
 
 
 I'm currently learning software development and building my technical skills. This space documents my journey from beginner to capable developer.
