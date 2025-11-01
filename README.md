@@ -1,16 +1,23 @@
-## Hi there 👋
+# [Sinon]
 
-<!--
-**OlegGazon/OlegGazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Developer in Training
 
-Here are some ideas to get you started:
+I'm currently learning software development and building my technical skills. This space documents my journey from beginner to capable developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Focus:**
+- Mastering Git and GitHub
+- Web development fundamentals
+- Building practical projects
+
+**Skills I'm Developing:**
+- Git version control
+- HTML/CSS
+- JavaScript basics
+- Command line proficiency
+
+**Get in Touch:**
+- Email: [propagandalososej@gmail.com]
+
+---
+
+*Building things one commit at a time.*
