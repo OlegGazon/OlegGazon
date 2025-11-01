@@ -30,4 +30,8 @@ Telegram:
 Discord:
 <img src="https://img.icons8.com/fluency/20/000000/discord-logo.png" width="20" height="20"> [Oleg Gazon](https://discord.com/users/tushhhka)
 
+VK:
+<img src="https://img.icons8.com/color/20/000000/vk-com.png" width="20" height="20"> [Мой ВК](https://vk.com/ya_sozhru_tebya)
+
+
 ---
