@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-## <span style="color:#305D62">Обо мне</span>
+## <span style="color:#348C96">Обо мне</span>
 
 Дизайнер и начинающий веб-разработчик. Создаю визуальные концепции и превращаю их в функциональные веб-интерфейсы. Увлекаюсь чистой эстетикой, интуитивной навигацией и вниманием к деталям.
 
