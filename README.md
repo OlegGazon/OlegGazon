@@ -19,12 +19,6 @@ Currently diving deeper into web design and honing technical skills to create ha
 - Developing web development skills
 - Building project portfolio
 
-## GitHub Stats
-
-![OlegGazon's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegGazon&show_icons=true&theme=nightowl)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegGazon&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
 **Development:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,6 +48,16 @@ Currently diving deeper into web design and honing technical skills to create ha
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
+
+## GitHub Stats
+
+![OlegGazon's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegGazon&show_icons=true&theme=nightowl)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegGazon&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
