@@ -19,7 +19,7 @@
 - Развитие навыков веб-разработки
 - Построение портфолио проектов
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![OlegGazon's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegGazon&show_icons=true&theme=nightowl)
 
