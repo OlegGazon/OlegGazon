@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-![OlegGazon's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegGazon&show_icons=true&theme=dark)
+![OlegGazon's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegGazon&show_icons=true&theme=nightowl)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegGazon&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
