@@ -23,8 +23,6 @@
 
 ![OlegGazon's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlegGazon&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegGazon&layout=compact&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegGazon&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 **Разработка:**
