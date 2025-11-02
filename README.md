@@ -57,7 +57,7 @@ Currently diving deeper into web design and honing technical skills to create ha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlegGazon&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OlegGazon&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OlegGazon&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
