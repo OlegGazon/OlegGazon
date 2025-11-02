@@ -19,6 +19,8 @@
 - Развитие навыков веб-разработки
 - Построение портфолио проектов
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 **Разработка:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
