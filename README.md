@@ -70,3 +70,5 @@ Currently diving deeper into web design and honing technical skills to create ha
 
 
 ---
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
