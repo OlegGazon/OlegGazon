@@ -50,16 +50,16 @@
 
 **Get in Touch:**
 
-Email:
+
 <img src="https://img.icons8.com/fluency/20/000000/gmail.png" width="20" height="20"> [propagandalososej@gmail.com](mailto:propagandalososej@gmail.com)
 
-Telegram:
+
 <img src="https://img.icons8.com/fluency/20/000000/telegram-app.png" width="20" height="20"> [@Oleg_gazon](https://t.me/Oleg_gazon)
 
-Discord:
+
 <img src="https://img.icons8.com/fluency/20/000000/discord-logo.png" width="20" height="20"> [Oleg Gazon](https://discord.com/users/tushhhka)
 
-VK:
+
 <img src="https://img.icons8.com/color/20/000000/vk-com.png" width="20" height="20"> [Пропаганда Лососей](https://vk.com/ya_sozhru_tebya)
 
 
