@@ -6,18 +6,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
-# Обо мне
+# About Me
 
-`Дизайнер` и начинающий `веб-разработчик`. Создаю визуальные концепции и превращаю их в функциональные веб-интерфейсы. Увлекаюсь чистой эстетикой, интуитивной навигацией и вниманием к деталям.
+`Designer` and aspiring `web developer`. I create visual concepts and turn them into functional web interfaces. Passionate about clean aesthetics, intuitive navigation, and attention to detail.
 
-В настоящее время углубляюсь в веб-дизайн и оттачиваю технические навыки для создания гармоничных цифровых продуктов.
+Currently diving deeper into web design and honing technical skills to create harmonious digital products.
 
-**Текущее направление деятельности:**
-- Освоение Git и GitHub
-- Создание целостных дизайн-концепций
-- Перевод макетов в рабочие веб-интерфейсы
-- Развитие навыков веб-разработки
-- Построение портфолио проектов
+**Current Focus:**
+- Mastering Git and GitHub
+- Creating holistic design concepts
+- Translating mockups into working web interfaces
+- Developing web development skills
+- Building project portfolio
 
 ## GitHub Stats
 
