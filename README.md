@@ -70,5 +70,6 @@ Currently diving deeper into web design and honing technical skills to create ha
 
 
 ---
+![Snake Animation](https://raw.githubusercontent.com/OlegGazon/OlegGazon/main/dist/github-snake-dark.svg)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
